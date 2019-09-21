@@ -52,7 +52,7 @@ class TareasCronCommand extends Command {
         $this->getEm()->persist($tarea);
         $this->getEm()->flush();
 
-        $io->success('You have a new command! Now make it your own! Pass --help to see your options.');
+        $io->success('Se ha registrado en la BD');
     }
 
 }
