@@ -3,7 +3,7 @@
     <type>org.netbeans.modules.php.project</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
-            <name>symfony-command-for-cron</name>
+            <name>symfony-command-tareas-cron</name>
         </data>
     </configuration>
 </project>
